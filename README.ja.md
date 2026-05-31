@@ -237,6 +237,6 @@ flowchart TD
 
 **Draft Version 1.0**  
 **発行日：2026年5月31日**  
-**著者**：AkihoHR-Dev（考察提供・全体編集） / Grok（xAI）（構造化・分析・解釈） / Gemini（Google）および Gemma-4-26B-A4B-IT（Google）（分析支援・編集協力）**
+**著者**：AkihoHR-Dev（考察提供・全体編集） / Grok（xAI）（構造化・分析・解釈） / Gemini（Google）および Gemma-4-26B-A4B-IT（Google）（分析支援・編集協力）
 
 ---
